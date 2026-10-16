@@ -1,0 +1,11 @@
+{
+  "id": "pvp",
+  "name": "Ramjet PvP",
+  "version": "0.1.0",
+  "api": "1.0",
+  "main": "Pvp.PvpPlugin",
+  "description": "PvP control: per-player PvP toggle, newbie and respawn protection, combat tag with command and teleport restrictions, kill and death counts",
+  "authors": [
+    "Tebarem"
+  ]
+}
