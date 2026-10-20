@@ -1,5 +1,7 @@
 # Ramjet PvP
 
+> **Requires `Ramjet.Api` 1.0.0-preview.3 or newer, and a server that runs it.** This plugin uses the native PvP gate, combat tags and their events, which is new in that version; it does not compile against or run on older versions.
+
 PvP control for Ramjet servers, in the feature set of a PvPManager-style plugin: a per-player PvP toggle, newbie and respawn
 protection, a combat tag with restrictions while tagged, and kill and death counts. Clean-room: written from its own design
 (`src/DESIGN.md`) and public documentation only, with no code read from other PvP plugins.
